@@ -3,7 +3,6 @@
 <html>
 <body>
     <h2>It's working on Tomcat server(9.0.65)</h2>
-    <h3>HI My name is JJW</h3>
     <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
