@@ -38,9 +38,10 @@
     <h2>Hi, I'm JJW. Jenkins Test</h2>
 </header>
 <hr>
-<h1>${msg}</h1>
-<h1>Hi, there (updated by dowon)</h1>
+<h1>Hi, there </h1>
 <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
 <h3>Version: 3.1</h3>
+<p>(updated by dowon): </p>
+<a href="https://www.inflearn.com/course/%EC%A0%A0%ED%82%A8%EC%8A%A4-ci-cd-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8/dashboard">인프런 - Jenkins를 이용한 CI/CD Pipeline</a>
 </body>
 </html>
